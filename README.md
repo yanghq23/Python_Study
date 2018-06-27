@@ -1,3 +1,3 @@
 # Python_Style
     Python学习
-## 搜集的资料
+> 各处搜集的资料
